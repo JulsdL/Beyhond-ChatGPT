@@ -15,7 +15,3 @@ I'm looking forward to connecting with fellow AI enthusiasts and innovators. If 
 ### 💌 Your Thoughts
 
 As I take my first steps with the AI Maker Space Cohort #2, I'm filled with excitement for what lies ahead. LLM Explorer is just the beginning. Here's to the many discoveries and creations that await us on this AI odyssey!
-
-# Beyond ChatGPT
-
-This Chainlit app was created following instructions from [this repository!](https://github.com/AI-Maker-Space/Beyond-ChatGPT)
